@@ -15,7 +15,7 @@ Major Packages:
 >redux, react-router, swr
 
 Page Load Time
->It takes an average of 1.5 seconds for user to start interacting with the website
+>It takes an average of 1.5 seconds for user to start interacting with the website. I have calculated this using the lighthouse in chrome devTools
 
 Optimisations
 - React memo: used react memo to prevent unnecessary re render
